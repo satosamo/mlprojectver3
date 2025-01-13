@@ -1,0 +1,1 @@
+The original project proposal was aimed at completely different topic, but it proved impossible to get some reasonable results so I switched to movie revenue prediction to have at least something.
